@@ -1,0 +1,13 @@
+name = AB admin
+description = Feeds importers,
+core = 7.x
+package = AB
+version = 7.x-1.0
+project = ab_admin
+dependencies[] = ctools
+dependencies[] = feeds
+features[ctools][] = feeds:feeds_importer_default:1
+features[features_api][] = api:2
+features[feeds_importer][] = beer
+features[feeds_importer][] = breweries
+features[feeds_importer][] = items

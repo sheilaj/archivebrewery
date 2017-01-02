@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the AB Item feature.
+ */
+
+include_once 'ab_item.features.inc';

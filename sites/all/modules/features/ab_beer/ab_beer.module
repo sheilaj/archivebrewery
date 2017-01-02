@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the AB Beer feature.
+ */
+
+include_once 'ab_beer.features.inc';

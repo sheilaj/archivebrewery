@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the AB admin feature.
+ */
+
+include_once 'ab_admin.features.inc';
